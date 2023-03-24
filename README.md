@@ -1,1 +1,1 @@
-# Geokomputasi_Otomatisasi_GIS
+# Geokomputasi Otomatisasi GIS
