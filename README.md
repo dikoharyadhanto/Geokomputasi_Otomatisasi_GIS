@@ -1,0 +1,1 @@
+# Geokomputasi_Otomatisasi_GIS
